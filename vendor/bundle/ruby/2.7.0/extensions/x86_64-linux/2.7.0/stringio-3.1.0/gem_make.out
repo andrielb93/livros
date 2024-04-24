@@ -1,0 +1,15 @@
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+/home/manusis/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/manusis/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20240424-38523-1xxtqgh.rb extconf.rb
+creating Makefile
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" clean
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR="
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" install
+/usr/bin/install -m 0755 stringio.so ./.gem.20240424-38523-1ystk0w

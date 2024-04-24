@@ -1,0 +1,15 @@
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/home/manusis/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/manusis/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20240424-38523-imdjak.rb extconf.rb
+creating Makefile
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cparse.so ./.gem.20240424-38523-15dpqy/racc

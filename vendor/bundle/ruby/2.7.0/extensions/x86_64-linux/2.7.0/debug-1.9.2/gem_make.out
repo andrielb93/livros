@@ -1,0 +1,16 @@
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/debug-1.9.2/ext/debug
+/home/manusis/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/manusis/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20240424-57548-a62db9.rb extconf.rb
+creating Makefile
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/debug-1.9.2/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/debug-1.9.2/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/manusis/blog/vendor/bundle/ruby/2.7.0/gems/debug-1.9.2/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug.so ./.gem.20240424-57548-1e3rcwm/debug
